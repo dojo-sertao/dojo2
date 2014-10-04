@@ -1,3 +1,4 @@
+#CODING DOJO SERTAO
 def is_primo(num):
 	if num == 1: return True
 	contador=0
